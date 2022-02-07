@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <marquee><h1>Ola mundo</h1></marquee>
+      <marquee><h1>Ola mundo, hiragana</h1></marquee>
     </div>
   )
 }
