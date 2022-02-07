@@ -7,7 +7,11 @@ function App() {
 
   return (
     <div className="App">
-      <marquee><h1>Ola mundo, hiragana</h1></marquee>
+      
+
+        <input type="text" />
+        <input type="text" />
+        <button>Login</button>
     </div>
   )
 }
